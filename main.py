@@ -1,5 +1,7 @@
 a = "Hello world"
 b = "Hey world"
-print("Bye world")
+c = "Bye world"
 
-c = a+b
+d = a+b
+
+e = c+d
