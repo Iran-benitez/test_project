@@ -1,3 +1,5 @@
-print("Hello world")
-print("Hey world")
+a = "Hello world"
+b = "Hey world"
 print("Bye world")
+
+c = a+b
